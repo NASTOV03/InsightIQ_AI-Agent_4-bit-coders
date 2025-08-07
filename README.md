@@ -116,7 +116,6 @@ Supports multi-turn conversations using Watsonx agentic flows.
 
 ```bash
 📦 InsightIQ
-├── Certificates/
 ├── Project ScreenShots/
 ├── InsightIQ Knowledge Base.pdf     # Vectorized knowledge document
 ├── InsightIQ.ipynb                  # IBM Notebook for logic setup
