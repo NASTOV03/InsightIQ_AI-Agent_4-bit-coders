@@ -126,6 +126,7 @@ Supports multi-turn conversations using Watsonx agentic flows.
 ├── Project PPT.ppt
 
 ```
+---
 
 ## **📝 Contributing**
 Suggestions and forks are welcome! Feel free to contribute!
