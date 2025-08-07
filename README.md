@@ -74,9 +74,11 @@ Supports multi-turn conversations using Watsonx agentic flows.
 <img width="589" height="753" alt="Image" src="https://github.com/user-attachments/assets/426a3b66-0385-47c0-8e70-874e8c7edae6" />
 
 *Graph Visualization*
+
 <img width="738" height="483" alt="Image" src="https://github.com/user-attachments/assets/f85ce9f4-1495-434c-a340-c9006a4c54e6" />
 
 *Collab Preview*
+
 <img width="1398" height="764" alt="Image" src="https://github.com/user-attachments/assets/07ef929f-d087-4789-9648-dbc0b6058fc1" />
 
 📂 (See `Project ScreenShots/` folder for images)
