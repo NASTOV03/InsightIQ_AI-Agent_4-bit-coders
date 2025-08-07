@@ -44,13 +44,13 @@ Supports multi-turn conversations using Watsonx agentic flows.
 
 ## 📷 Project Snapshots
 
-📌 Project ID & Description
-📌 Setting up Vector Knowledge
-📌 Agent Instructions (Step Flow)
-📌 Model Selection & Tool Configuration
-📌 Final Agent Deployment Preview
+📌 **Project ID & Description**
+📌 **Setting up Vector Knowledge**
+📌 **Agent Instructions (Step Flow)**
+📌 **Model Selection & Tool Configuration**
+📌 **Final Agent Deployment Preview**
 
-📂 (See `Project ScreenShots/` folder for detailed visual)
+📂 (See `Project ScreenShots/` folder for images)
 
 ---
 
@@ -94,4 +94,22 @@ Supports multi-turn conversations using Watsonx agentic flows.
 ├── Problem Statement.pdf
 ├── README.md                        # This file
 ├── Project PPT.ppt
+
 ```
+
+## **📝 Contributing**
+Suggestions and forks are welcome! Want to add calorie tracking, goal monitoring, or calendar scheduling? Feel free to contribute!
+
+---
+
+## **⚖️ License**
+This project is licensed under the **MIT License** – free to use and modify.
+
+---
+
+## **🤝 Connect**
+Made with 💙 by **4-bit coders**  
+
+---
+
+🔥 Powered by IBM Cloud, Built for Learners! 🔥
