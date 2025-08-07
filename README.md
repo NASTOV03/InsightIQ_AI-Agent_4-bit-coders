@@ -122,7 +122,6 @@ Supports multi-turn conversations using Watsonx agentic flows.
 ├── InsightIQ.ipynb                  # IBM Notebook for logic setup
 ├── InsightIQ.txt
 ├── LICENSE
-├── Problem Statement.pdf
 ├── README.md                        # This file
 ├── Project PPT.ppt
 
