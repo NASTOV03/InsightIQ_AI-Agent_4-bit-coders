@@ -98,7 +98,7 @@ Supports multi-turn conversations using Watsonx agentic flows.
 ```
 
 ## **📝 Contributing**
-Suggestions and forks are welcome! Want to add calorie tracking, goal monitoring, or calendar scheduling? Feel free to contribute!
+Suggestions and forks are welcome! Feel free to contribute!
 
 ---
 
